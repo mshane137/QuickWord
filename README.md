@@ -1,4 +1,5 @@
-Here we have QuickWord, a fun and simple game to help build and practice vocabulary. Upon starting the app you will see a sign in page that will track user data. Once you sign in you will see the menu screen, and from here you have some options as to what you can do.
+Here we have QuickWord, a fun and simple game to help build and practice vocabulary.
+After you unzip the fie and are opening it in android please select the Quickword 6 3 5 3 as the root. Upon starting the app you will see a sign in page that will track user data. Once you sign in you will see the menu screen, and from here you have some options as to what you can do.
 You can select from the menu
 Start game- which begins the game cycle 
 records- which contains data about your high score and your highest streak
